@@ -7,6 +7,6 @@ The app "Seels" audio books and has a basic media player. user can "buy" the aud
 App implants Recycle view, Navigation bar and push notifications.
 
 the code is a bit messy because it was our first time programing at android studio (and 1st time programing in java).
-for any questions contact me via idoul@mta.co.il
+for any questions contact me via isshaih@gmail.com
 
 Created by Ido Ulmer, Shai Hassan and Lior Ben - Yehuda
